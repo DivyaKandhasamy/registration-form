@@ -1,0 +1,109 @@
+.section{
+    height:420px;
+    width:310px;
+  background-color: beige;
+    
+}
+h3{
+   text-align: center;
+   padding-top: 20px;
+}
+.label-fname{
+   padding:20px; 
+}
+.fname{
+    margin-top:10px; 
+    margin-left: 20px;
+    margin-bottom: 8px;
+    width:250px;
+    height:25px;
+}
+.label-lname{
+    padding:20px; 
+    
+}
+.lname{
+    margin-top:10px; 
+    margin-left: 20px;
+    margin-bottom: 8px;
+    width:250px;
+    height:25px;
+}
+.label-email{
+    padding:20px; 
+}
+.email{
+    margin-top:10px; 
+    margin-left: 20px;
+    margin-bottom: 8px;
+    width:250px;
+    height:25px;
+}
+.label-country{
+    padding:20px; 
+}
+.country{
+    margin-top:10px; 
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width:255px;
+    height:28px;
+}
+.label-gender{
+    padding:20px; 
+    margin-top:6px; 
+}
+.sub-btn{
+    width:230px;
+    margin-left: 30px;
+    margin-top:18px; 
+    height:30px;
+    background-color: green;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.card{
+    width:310px;
+    height:85px;
+    background-color: beige;
+    margin-top: 20px;
+    display: flex;
+
+}
+.student-details{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.country-card{
+    margin-left:-2px;
+    color:green;
+    margin-top: 3px;
+}
+.remove-card{
+    margin-left: 4px;
+   border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: beige;
+    position: sticky;
+}
+
+.div-remove-card{
+    margin-top: -5px;
+    margin-left: 40px;
+}
+.stdu-email{
+    margin-top: 3px;
+}
+.stdu-name{
+    margin-top: 2px;
+}
+.profile-section{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3px;
+}
